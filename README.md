@@ -1,2 +1,3 @@
 # determine_distance
-finding distance between camera and board
+Finding distance between camera and monitor.
+Pose estimation via rotation and translation vectors using cv2.solvePnP method
